@@ -4,7 +4,7 @@
   "description": "A JavaScript lab",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --timeout 5000 --reporter spec"
+    "test": "node test/run.js"
   },
   "author": "flatironschool",
   "license": "Included in Repo",
